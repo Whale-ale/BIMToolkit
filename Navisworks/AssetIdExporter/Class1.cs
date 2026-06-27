@@ -13,4 +13,15 @@ namespace AssetIdExporter
     {
 
     }
+
+    public class PropertyReader
+    {
+        public void Read() 
+        {
+            
+        }
+    }
+
+
 }
+
